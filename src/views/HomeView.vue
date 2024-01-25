@@ -4,7 +4,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
-    <div class="btn btn-primary">1234</div>
+    <div class="btn btn-primary">test1</div>
     <TheWelcome />
   </main>
 </template>
